@@ -28,4 +28,4 @@ jobs:
     - name: Install dependencies
       run: pnpm install
     - name: Execute Vitest
-    - run: pnpm run test
+      run: pnpm run test
